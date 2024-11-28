@@ -42,7 +42,7 @@ To execute the API tests, use the following command:
 ```bash
 dotnet test API_Tests/API_Tests.csproj --no-build --verbosity normal
 ```
-### 1. Run UI Tests
+### 2. Run UI Tests
 To execute the UI tests, use the following command:
 ```bash
 dotnet test UI_Tests/UI_Tests.csproj --no-build --verbosity normal
